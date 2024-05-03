@@ -1,0 +1,15 @@
+.par-style{
+    color:blue;
+    font-size: 3rem;
+    font-weight: bolder;
+    font-style: normal;
+    background-color: greenyellow;
+}
+
+.par-style2{
+    color: red;
+    font-size: 5rem;
+    font-weight: bolder;
+    font-style: italic;
+    background-color: aqua;
+}
