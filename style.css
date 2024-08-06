@@ -22,3 +22,8 @@ button{
     box-shadow: 0 10px 15px 0 blueviolet;
     opacity: 100.5;
 }
+div{
+    background-color: aqua;
+    height: 20rem;
+    width: 30rem;
+}
