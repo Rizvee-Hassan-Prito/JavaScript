@@ -1,5 +1,5 @@
 
-//Default Parameter
+//////////////////////////Default Parameter//////////////////////////
 function msg(txt="Default parameter"){
     console.log(txt)
 }
@@ -9,7 +9,7 @@ msg("Printing...")
 
 
 
-//Rest Parameter
+//////////////////////////Rest Parameter//////////////////////////
 function number(x,y, ...r)
 {
     console.log(`x=${x}\ny=${y}\nz=${r}`)

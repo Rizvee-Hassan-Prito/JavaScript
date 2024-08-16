@@ -1,4 +1,4 @@
-//IIFE(Immidiately Invokable Function Expression)
+//////////////////////////IIFE(Immidiately Invokable Function Expression)//////////////////////////
 
 (function (msg)
 {
@@ -6,7 +6,7 @@
 })("This is a message.</br>");
 
 
-//Function Expression
+//////////////////////////Function Expression//////////////////////////
 var new_num = parseInt(prompt("Enter a value to its 25 times:"))
 var time25 = (function(num)
 {
