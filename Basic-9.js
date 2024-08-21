@@ -37,3 +37,19 @@ var arr=numbers.filter(function(i)
 })
 
 console.log(arr)
+
+///////////////////find and findIndex////////////////
+
+var numbers=[33,55,13,22,12,46,23]
+var arr=numbers.find(function(i)
+{
+    return i%2==0
+})
+
+var arrIndex=numbers.findIndex(function(i)
+{
+    return i%2==0
+})
+console.log(arrIndex)
+
+
