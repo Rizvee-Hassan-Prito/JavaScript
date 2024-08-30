@@ -9,7 +9,7 @@ function task2Process()
 }
 
 const Task2=()=>{
-    setTimeout(task2Process,2000)
+    setTimeout(task2Process,3000)
 }
 
 function task3Process()
@@ -17,7 +17,7 @@ function task3Process()
     console.log("Task 3 is completed.")
 }
 const Task3=()=>{
-    setTimeout(task3Process,3000)
+    setTimeout(task3Process,2000)
 }
 
 const Task4=()=>{
